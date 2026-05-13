@@ -1,10 +1,10 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #c9df8a;
     margin: 0;
 }
 
-header {
+header, footer {
     background-color: #234d20;
     color: white;
     text-align: center;
